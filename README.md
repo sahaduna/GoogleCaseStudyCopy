@@ -1,0 +1,2 @@
+# GoogleCaseStudyCopy
+copy adikren
